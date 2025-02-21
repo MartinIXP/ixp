@@ -1,0 +1,7 @@
+HTTP/1.1 404 NotFound
+Content-Type: application/json
+client-request-id: efc76db6-dcab-4300-bd71-16a9319fd51f
+Date: Fri, 21 Feb 2025 09:46:23 GMT
+Content-Length: 101
+
+{"odata.error":{"code":"NotFound","message":{"lang":"en","value":"Unsupported method or endpoint."}}}
